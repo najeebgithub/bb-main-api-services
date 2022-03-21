@@ -1,4 +1,4 @@
-module github.com/bb-main-api-services/configs
+module github.com/najeebgithub/bb-main-api-services/configs
 
 go 1.17
 
